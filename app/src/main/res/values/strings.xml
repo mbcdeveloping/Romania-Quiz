@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">QuizAppRoMania</string>
+    <string name="q1">1. Where is Romania located?</string>
+         <string name="a1.1">Europa</string>
+         <string name="a1.2">Asia</string>
+         <string name="a1.3">Africa</string>
+         <string name="a1.4">South America</string>
+    <string name="q2">2. Select the Romanian flag:</string>
+    <string name="q3">3. What is the biggest river that crosses Romania, the second of the whole Europe and the only on Earth that passes through 10 countries ?</string>
+         <string name="a3.1">Vistula</string>
+         <string name="a3.2">Volga</string>
+         <string name="a3.3">Danube</string>
+    <string name="q4">4. Who is the current leader of Romania?</string>
+    <string name="q5">5. What is the last natural paradise in Romania, the only delta in the world that is declared a Biosphere Reserve ?</string>
+    <string name="q6">6. Who is romanian gymnast that performed the floor exercise at the 1976 Olympic Games in Montreal and was first in obtaining the perfect score, 10 ?</string>
+         <string name="a6.1">Teodora Ungureanu</string>
+         <string name="a6.2">Nadia Comaneci</string>
+         <string name="a6.3">Daniela Silivaş</string>
+    <string name="q7">7. Who is known as Dracula</string>
+         <string name="a7.1">Vlad Tepes</string>
+         <string name="a7.2">Stefan Cel Mare</string>
+         <string name="a7.3">Mihai Viteazul</string>
+    <string name="q8">8. Which of the following are Romanians:</string>
+         <string name="a8.1">Constanin \n Brancusi</string>
+         <string name="a8.2">Henry \n Ford</string>
+         <string name="a8.3">Freres \n Lumiere</string>
+         <string name="a8.4">Cibernetics \n father</string>
+         <string name="a8.5">Jet engine \n inventor</string>
+         <string name="a8.6">Stylo \ninventor</string>
+
+    <string name="answer_hnt">Answer.. .</string>
+    <string name="sub">Submit</string>
+
+    <string name="select1">No1Selected</string>
+    <string name="select2">No2Selected</string>
+    <string name="select3">No3Selected</string>
+
+    <string name="president_select1">Traian Basescu</string>
+    <string name="president_select2">Nicolae Ceausescu</string>
+    <string name="president_select3">Klaus Iohanis</string>
+    <string name="danubedelta">The Danube Delta</string>
+    <string name="your_score_is">Your score is: </string>
+    <string name="you_are_romanian">You are a true romanian</string>
+    <string name="out_of">/out of 8</string>
+</resources>
